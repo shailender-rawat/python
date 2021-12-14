@@ -3,8 +3,8 @@ import boto3
 
 s3client = boto3.client(
     's3',
-    aws_access_key_id="AKIA4TPQDK6BSGTVUNU7",
-    aws_secret_access_key="CQcLTuW+XdakzHiJjd0ILWs3pJ4cffi13iQSjw2f"
+    aws_access_key_id="DUMMY",
+    aws_secret_access_key="DUMMY+DUMMY"
 )
 
 bucket_name = "myawsbucket-ex01"
